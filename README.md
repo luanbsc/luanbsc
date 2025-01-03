@@ -129,6 +129,6 @@ Me chamo Luan Barbosa dos Santos Costa, tenho 22 anos e sou natural da Bahia. At
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbsc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Top Langs" 
     height="200" 
-    style="width: 500px;" 
+    style="width: 400px;" 
   />
 </p>
