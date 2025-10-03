@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luan Barbosa dos Santos Costa, tenho 22 anos e sou natural da Bahia. Atualmente estou cursando Engenharia de Computação na UEFS.
+Me chamo Luan Barbosa dos Santos Costa, tenho 22 anos e sou natural da Bahia. Atualmente estou cursando Engenharia de Computação na UEFS
 
 ---
 
